@@ -64,3 +64,11 @@ INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 11:17:20] "[36mGET /static/css/main.cs
 INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 11:17:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
 INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 11:17:45] "POST /review HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 11:24:41] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2023 21:38:53] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2023 21:38:54] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2023 21:38:54] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2023 21:38:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2023 21:39:05] "[37mPOST /review HTTP/1.1[0m" 200 -
